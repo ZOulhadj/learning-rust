@@ -1,5 +1,3 @@
-use std::io;
-
 fn main() {
     let mut v1: Vec<i32> = Vec::new();
     v1.push(20);
